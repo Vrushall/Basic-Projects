@@ -1,1 +1,1 @@
-A very basic calculaotor made in python, cannot do complex calculations yet. 
+A very basic calculator made using the "tkinter" library in Python, cannot do complex calculations yet. 
