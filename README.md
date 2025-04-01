@@ -1,6 +1,4 @@
-This repository contains small Python projects I created when I first started learning programming. These projects helped me understand fundamental programming concepts, and I continue to add new ones occasionally as I explore different ideas.
-
-### Projects included:
+# Projects included:
 
 - **Basic Calculator** : A simple calculator built using the tkinter library. It currently supports basic arithmetic operations but does not handle complex calculations yet.
 
